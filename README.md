@@ -66,7 +66,6 @@ The Bayesian approach massively outperformed the Classical method in handling un
 ├── ex2_utils.py             # Utility functions for loading data and examples
 ├── jerus_daytemps.npy       # Historical November temperature dataset (for learning the prior)
 ├── nov162024.npy            # Test data (Temperatures for Nov 16, 2024)
-├── Ex2.pdf                  # Official project instructions and theoretical background
 ├── plots from practical part.pdf # Output graphs showing prior/posterior means, samples, and MSE
 └── README.md                # This file
 ```
